@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @mohitadmane45
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-mohitadmane45/mohitadmane45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Mohit Admane
+- 👀 I’m interested in analysing and working with different reports or data.I am a keen learner of new and advanced technology & methodology for constant growth and improvement. and capable of learning any new tools/skills that the job demands in a short span of time.
+- 🌱 I’m currently learning | Python | Machine learning | SQL | Google Sheet/MS Excel | Statistics | Power BI | Cloud
+- 💞️ I’m looking to collaborate on python, machine learning.
+- 📫 How to reach me admanemohit5@gmail.com
